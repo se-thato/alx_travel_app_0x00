@@ -30,9 +30,6 @@ Install the following essential packages:
 - Commit and push your project to a GitHub repository named `alxtravelapp`.
 
 
-
-##  Additional Features
-
 ###  Create Models
 - In `listings/models.py`, define `Listing`, `Booking`, and `Review` models based on the provided structure.
 - Ensure each model includes appropriate fields, relationships (e.g., ForeignKey, ManyToMany), and constraints for data integrity.
